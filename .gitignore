@@ -1,0 +1,9 @@
+.vs
+bin
+obj
+_
+licenses.licx
+*.user
+Debug
+packages
+Temporary
